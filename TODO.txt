@@ -1,1 +1,0 @@
-1. Make the navbar item active when its view is loaded.
